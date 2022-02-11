@@ -1,0 +1,9 @@
+{
+    "chip_haas1000": {
+        "serialport": "COM10",
+        "baudrate": "1500000",
+        "binfile": [
+            "C:\\Users\\victo\\OneDrive - The Cooper Union for the Advancement of Science and Art\\Documents\\IOT\\Practice\\solutions\\project_cloud\\out\\project_cloud@haas100.bin"
+        ]
+    }
+}
