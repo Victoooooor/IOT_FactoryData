@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=P1-4
+Removed Pin From Net: NetName=NetP1_3 Pin=R10-1
+Removed Pin From Net: NetName=NetP1_3 Pin=R13-1
+Change Component Footprint: Designator=P1 Old Footprint=61300411021 New Footprint=61300821121
+Change Component Comment : Designator=P1 Old Comment=61300411021 New Comment=61300821121
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=619C8A5C-2075-4D5E-860C-2E282339CB54 New ItemGUID=63D4D076-E443-4D96-A38E-5A86A16E471F Old RevisionGUID=2CB701CE-5215-4864-BB08-DD7F730A56EC New RevisionGUID=767E51EA-14FE-4C49-9032-2EEB9DB92DDF
+Change component parameters: Designator = "P1" ("P1"); Footprint = "61300411021"; UniqueID = "\SDQOAUHH" ("\SDQOAUHH")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "61300821121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61300821121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=-5 Pin=P1-6
+Added Pin To Net: NetName=NetC1_1 Pin=P1-7
+Added Pin To Net: NetName=NetP1_3 Pin=R5-1
+Added Pin To Net: NetName=NetP1_3 Pin=R8-1
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=R10-1
+Added Pin To Net: NetName=NetP1_5 Pin=R13-1
+Added Net: Name=NetP1_5

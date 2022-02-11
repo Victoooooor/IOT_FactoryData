@@ -1,0 +1,1030 @@
+*************************************************************
+FileName = Sheet1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : Sheet1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Sheet1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Sheet1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Sheet1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Sheet1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Sheet1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : Sheet1.1
+
+    Adding Layer      : Dielectric 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : Sheet1.GM9
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Sheet1.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Sheet1.GM2
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Sheet1.GM3
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Sheet1.GM4
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Sheet1.GM5
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Sheet1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Sheet1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D17
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Sheet1.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Sheet1.GM6
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Sheet1.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Sheet1.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Sheet1.GM8
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Sheet1.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Sheet1.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Sheet1.GM7
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : Sheet1.GML
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sheet1.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sheet1.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D17
+    D33
+*************************************************************
+
